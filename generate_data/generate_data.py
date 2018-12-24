@@ -150,8 +150,8 @@ class GenText:
         
 
 if __name__ == '__main__':
-    outputPath = "../data/train" 
-    #outputPath = "../data/test" 
+    # outputPath = "../data/train"
+    outputPath = "../data/test"
     gt = []
     imgaePath = os.path.join(outputPath, 'text')
     num = 1000
