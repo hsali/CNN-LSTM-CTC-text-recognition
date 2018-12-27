@@ -1,2 +1,6 @@
+tensorflow
 numpy
-pillow
+mxnet
+matplotlib
+Pillow
+opencv-python
