@@ -1,6 +1,6 @@
 tensorflow
 numpy
-mxnet
 matplotlib
 Pillow
 opencv-python
+keras
